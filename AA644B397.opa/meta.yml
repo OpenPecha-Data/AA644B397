@@ -1,0 +1,19 @@
+id: AA644B397
+title: Praise of Kunga Yeshe, Great Being and Master of Extensive Scriptural Traditions
+type: translation
+pechas:
+- I70FC493D
+- IC214A1AB
+source_metadata:
+  languages:
+  - en
+  - bo
+  datatype: PlainText
+  created_at: 2023-01-04 11:55:47.020778
+  last_modified_at: 2023-01-04 11:55:47.020791
+  collections:
+  - Ga Rabjampa Kunga Yeshe
+  - Works of Tibetan Masters
+alignment_to_base:
+  I70FC493D/B34A: 17FB
+  IC214A1AB/A566: 17FB
